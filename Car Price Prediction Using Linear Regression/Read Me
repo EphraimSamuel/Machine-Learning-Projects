@@ -1,1 +1,4 @@
-
+This is a Python project for creating a linear regression model that uses machine learning to predict used car prices from a given dataset. 
+The dataset for this project was obtained from Kaggle, and the link is provided below. 
+https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
+The complete code is available on my GitHub page.
